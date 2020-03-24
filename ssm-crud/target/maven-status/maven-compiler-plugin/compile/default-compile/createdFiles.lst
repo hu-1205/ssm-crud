@@ -1,0 +1,17 @@
+com\damo\crud\test\MvcTest.class
+com\damo\crud\bean\DepartmentExample.class
+com\damo\crud\bean\EmployeeExample$GeneratedCriteria.class
+com\damo\crud\bean\EmployeeExample.class
+com\damo\crud\service\EmployeeService.class
+com\damo\crud\bean\Department.class
+com\damo\crud\dao\DepartmentMapper.class
+com\damo\crud\bean\DepartmentExample$Criteria.class
+com\damo\crud\bean\DepartmentExample$Criterion.class
+com\damo\crud\bean\EmployeeExample$Criteria.class
+com\damo\crud\dao\EmployeeMapper.class
+com\damo\crud\test\MBGTest.class
+com\damo\crud\bean\EmployeeExample$Criterion.class
+com\damo\crud\bean\DepartmentExample$GeneratedCriteria.class
+com\damo\crud\test\MapperTest.class
+com\damo\crud\controller\EmployeeConteroller.class
+com\damo\crud\bean\Employee.class
